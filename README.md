@@ -60,21 +60,37 @@ Create an API for model deployment
 
 Insurance Claim Prediction/
 ├── README.md
+
 ├── Problem_statement.doc
+
 ├── data/
+
 │ ├── train_raw_dataset.csv
+
 │ ├── train_cleaned_dataset.xlsx
+
 │ ├── test_raw_dataset.csv
+
 │ └── test_cleaned.xlsx
+
 ├── notebooks/
+
 │ └── insurance_policy holder.ipynb
+
 ├── src/
+
 │ └── model.py
+
 │ └── utils.py
+
 ├── models/
+
 │ └── random_forest_model.pkl
+
 ├── output/
+
 │ └── test_predictions.csv
+
 └── .gitignore
 
 🙏 Acknowledgements
