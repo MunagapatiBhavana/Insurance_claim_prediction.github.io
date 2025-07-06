@@ -65,6 +65,8 @@ Insurance Claim Prediction/
 
 ├── data/
 
+| ├── data_dictionary
+
 │ ├── train_raw_dataset.csv
 
 │ ├── train_cleaned_dataset.xlsx
